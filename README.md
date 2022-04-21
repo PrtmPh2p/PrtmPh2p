@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PrtmPh2p
-- 👀 I’m interested in Website development
+- 👋 Hi, I’m @PrtmPhlp
+- 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning Python and Swift
 <!---
 PrtmPh2p/PrtmPh2p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
