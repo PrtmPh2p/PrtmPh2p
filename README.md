@@ -1,4 +1,8 @@
 # Hello World ✨
+
+![](https://github.com/PrtmPhlp/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/PrtmPhlp/github-stats/blob/master/generated/languages.svg)
 <!--
 - 👋 Hi, I’m @PrtmPhlp
 - 👀 I’m interested in Webdevelopment
