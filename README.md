@@ -1,8 +1,11 @@
 # Hello World ✨
 
-![](https://github.com/PrtmPhlp/github-stats/blob/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/PrtmPhlp/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/PrtmPhlp/GithubStats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://github.com/PrtmPhlp/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/PrtmPhlp/GithubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/PrtmPhlp/GithubStats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 - 👋 Hi, I’m @PrtmPhlp
 - 👀 I’m interested in Webdevelopment
